@@ -1,0 +1,23 @@
+;DownloadCount all;DownloadCount trusty amd64;DownloadCount trusty i386;DownloadCount utopic amd64;DownloadCount utopic i386;DownloadCount vivid amd64;DownloadCount vivid i386
+python-pandas;114.0;43;43;14.0;14.0;0.0;0.0
+python-xlrd;102.0;35;35;15.0;15.0;1.0;1.0
+python-statsmodels;60.0;25;25;5.0;5.0;0.0;0.0
+python-pandas-lib;57.0;32;11;6.0;8.0;0.0;0.0
+python-patsy;39.0;23;8;4.0;4.0;0.0;0.0
+python-statsmodels-lib;30.0;24;1;5.0;0.0;0.0;0.0
+python-ggplot;26.0;11;11;2.0;2.0;0.0;0.0
+python-gloo;22.0;14;8;0.0;0.0;0.0;0.0
+python-bottleneck;12.0;8;0;4.0;0.0;0.0;0.0
+python-scikits-timeseries;12.0;9;3;0.0;0.0;0.0;0.0
+python-xlsxwriter;10.0;6;0;4.0;0.0;0.0;0.0
+python-scikits.statsmodels;10.0;5;5;0.0;0.0;0.0;0.0
+python3-seaborn;6.0;2;2;1.0;1.0;0.0;0.0
+python-seaborn;6.0;2;2;1.0;1.0;0.0;0.0
+python-vincent;5.0;3;0;1.0;1.0;0.0;0.0
+python-statsmodels-doc;4.0;1;1;1.0;1.0;0.0;0.0
+python3-xlrd;4.0;2;2;0.0;0.0;0.0;0.0
+python-folium;2.0;1;1;0.0;0.0;0.0;0.0
+python-spyderlib;0.0;0;0;0.0;0.0;0.0;0.0
+python-pvlib;0.0;0;0;0.0;0.0;0.0;0.0
+python-mpltools;0.0;0;0;0.0;0.0;0.0;0.0
+spyder;0.0;0;0;0.0;0.0;0.0;0.0

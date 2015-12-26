@@ -1,0 +1,7 @@
+Name;Reason;Keywords / Description;Upstream;Doc;LP import;Priority ;Status
+holoviews;Composable, declarative data structures for building even complex visualizations easily.;visualisation, reproducible workflow;https://github.com/ioam/holoviews ;http://ioam.github.io/holoviews/;;low;only listed
+xray;N-D labeled arrays and datasets in Python;N-dimensional variants of the core pandas data structures / self- describing scientific data ;https://github.com/xray/xray;http://xray.readthedocs.org/;;"medium";"only listed"
+odo;;;https://github.com/ContinuumIO/odo;;https://code.launchpad.net/~pythonxy/pythonxy-upstream/blaze-into;"medium";"imported"
+rodeo;good IDE concept;A data science IDE for Python;https://github.com/yhat/rodeo;;https://code.launchpad.net/~pythonxy/pythonxy-upstream/rodeo;"high";"imported"
+pandoc;Other non-python;;;;;;
+jupyter_notebook;;;;;;;problem with importing code from upstream into LP [issue_bzr_submodules]_
