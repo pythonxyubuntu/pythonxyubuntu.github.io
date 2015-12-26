@@ -1,0 +1,10 @@
+Package;Issues;Task;Status;Changes wrt Ubuntu repository Debian files
+python-spyder;correct the GUI logo on linux (in the taskbar & programs list);"According to `runtime-dependencies <https://github.com/spyder-ideuntime-dependencies>`_ add packages:
+
+`nbconvert <https://github.com/jupyter/nbconvert>`_: Manipulation of notebooks in the Editor, `path.py <https://github.com/jaraco/path.py>`_ (package stalled due to import issues [issue_bzr_hg-git]_ ) and `pickleshare <https://github.com/pickleshare/pickleshare>`_: Show import completions on the Editor and consoles as recommended dependencies";;"Different Binary Dependencies for package: `python-sympy <http://packages.ubuntu.com/search?keywords=python-sympy>`_ – rationale:
+
+mentioned as `optional module <https://github.com/spyder-ide/spyder#optional-modules>`_ similar to Matplotlib, Numpy, etc. – See: `Debian Policy Manual - Declaring relationships between packages <https://www.debian.org/doc/debian-policy/ch-relationships.html>`_"
+Python-mpltools;"Add http://packages.ubuntu.com/trusty/python-concurrent.futures,  as the page says: Backport of the concurrent.futures package from Python 3.2, see: https://pypi.python.org/pypi/futures,   better: https://askubuntu.com/questions/592280/which-ubuntu-package-provides-the-pypi-future-package, http://python-future.org/reference.html?highlight-builtin#module-future.builtins,  https://pypi.python.org/pypi/future
+";;;
+Python-pvlib;update to new setup.py: control: clearsky.py requires scipy.io, `control / copyright <https://github.com/pvlib/pvlib-python/commits/master/setup.py>`_, `update readme <https://github.com/mkuzak/pandas-cookbook/commit/08d11e9d311b3ae437ba96a1f658504a552e7187>`_;;;
+python-pandas;problem with importing code from upstream into LP [issue_bzr_hg-git]_ ;;stalled / pending;

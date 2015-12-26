@@ -1,0 +1,11 @@
+
+.. |larr|   unicode:: U+02190 .. LEFTWARDS ARROW
+.. |rarr|   unicode:: U+02192 .. RIGHTWARDS ARROW
+
+.. |bzr|    replace:: Bazaar
+.. |LP|     replace:: Launchpad
+
+.. _Bazaar: http://bazaar.canonical.com/
+
+.. _Launchpad: https://launchpad.net/launchpad
+ 

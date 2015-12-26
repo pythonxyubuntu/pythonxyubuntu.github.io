@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python XY for Ubuntu &amp; derivatives (builds)</title><link>/</link><description></description><atom:link type="application/rss+xml" rel="self" href="/categories/builds.xml"></atom:link><language>en</language><lastBuildDate>Sat, 26 Dec 2015 22:02:09 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>[Status] 2015-12: Current issues with builds</title><link>/posts/2015-12_status/</link><dc:creator>Python XY Ubtuntu team</dc:creator><description>&lt;div&gt;&lt;p&gt;Currently, builds many packages are stalled.&lt;/p&gt;
+&lt;p&gt;This affects, for example:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;pandas&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;jupyter(*)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;dependencies&lt;/em&gt; required for &lt;strong&gt;Spyder&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→ The see the &lt;a class="reference external" href="/tasks/"&gt;General Issues&lt;/a&gt; encountered with &lt;a class="reference external" href="https://launchpad.net/launchpad"&gt;Launchpad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let's hope that the issues get implemented and fixed by the &lt;a class="reference external" href="https://launchpad.net/launchpad"&gt;Launchpad&lt;/a&gt; team in 2016.&lt;/p&gt;&lt;/div&gt;</description><category>bazaar</category><category>builds</category><category>github</category><category>issues</category><category>launchpad</category><category>status</category><category>website</category><guid>/posts/2015-12_status/</guid><pubDate>Sat, 26 Dec 2015 20:48:29 GMT</pubDate></item></channel></rss>
